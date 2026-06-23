@@ -1,4 +1,4 @@
-# Михаил Зыбин
+# Михаил (Meksiner)
 
 ML Engineer / Computer Vision Engineer
 
