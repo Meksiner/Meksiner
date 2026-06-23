@@ -4,7 +4,7 @@ ML Engineer / Computer Vision Engineer
 
 Разрабатываю ML-системы и backend-сервисы для обработки видео и аудио.
 
-## Основной проект
+## Выпускной проект
 
 ### KLIN (Klin Logical Inference Negation)
 
