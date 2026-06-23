@@ -1,16 +1,68 @@
-## Hi there 👋
+# Михаил Зыбин
 
-<!--
-**Meksiner/Meksiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer / Computer Vision Engineer
 
-Here are some ideas to get you started:
+Разрабатываю ML-системы и backend-сервисы для обработки видео и аудио.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основной проект
+
+### KLIN (Klin Logical Inference Negation)
+
+Платформа видеоаналитики для обнаружения потенциально опасных событий в реальном времени.
+
+#### Стек
+
+- Python
+- PyTorch
+- X3D
+- VideoMAE
+- YOLO
+- Litestar
+- RabbitMQ
+- PostgreSQL
+- Triton Inference Server
+- Docker
+- MLflow
+- Grafana
+- Prometheus
+
+#### Возможности
+
+- обработка RTSP-потоков;
+- детекция агрессии;
+- классификация событий;
+- обнаружение объектов;
+- асинхронная обработка через очереди;
+- REST API для интеграции.
+
+## Навыки
+
+### Machine Learning
+
+- PyTorch
+- TensorFlow
+- Computer Vision
+- ONNX
+- Triton
+
+### Backend
+
+- Python
+- Litestar
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+
+### Infrastructure
+
+- Docker
+- RabbitMQ
+- Kafka
+- Grafana
+- Prometheus
+- Linux
+
+## Контакты
+
+- Telegram: @meksiner
+- GitHub: https://github.com/Meksiner
