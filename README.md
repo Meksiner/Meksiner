@@ -2,7 +2,7 @@
 
 ML Engineer / Computer Vision Engineer
 
-Разрабатываю ML-системы и backend-сервисы для обработки видео и аудио.
+Разрабатываю ML-системы и backend-сервисы
 
 ## Выпускной проект
 
