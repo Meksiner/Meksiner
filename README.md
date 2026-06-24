@@ -65,4 +65,3 @@ ML Engineer / Computer Vision Engineer
 ## Контакты
 
 - Telegram: @meksiner
-- GitHub: https://github.com/Meksiner
